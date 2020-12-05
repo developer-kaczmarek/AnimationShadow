@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gradient Shadow</string>
+    <string name="common_hello">Hello</string>
+    <string name="common_morning">Good Morning</string>
+    <string name="common_afternoon">Good Afternoon</string>
+    <string name="common_evening">Good Evening</string>
+    <string name="common_night">Good Night</string>
+
+</resources>
