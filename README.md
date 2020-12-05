@@ -1,9 +1,7 @@
 # Gradient Shadow Animation
 
-## EN
 This application is intended solely for growthing Android development skills, in particular working with animation and Drawable. You can find an animated shadow implementation for the View here.
 
-## RU
 Данное приложение направлено исключительно на развитие навыков разработки под Android, в частности работа с анимацией и drawable. Здесь можно отыскать вариант реализации анимированной тени для View-компонента.
 
 ## UI
